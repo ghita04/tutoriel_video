@@ -4,12 +4,22 @@
 2. Sélectionner le language HTML 
 
 ![image](https://user-images.githubusercontent.com/93718412/142336800-97a0f8f7-e631-49d2-9ac8-fb1830c50d0c.png)
+![image](https://user-images.githubusercontent.com/93718412/142337527-033e1f5a-a8f7-43f4-87b4-783943a19f22.png)
 
 3. Écrire les balises de base en HTML (!DOCTYPE, html, head, title, etc)
 
 ![image](https://user-images.githubusercontent.com/93718412/142337236-61c79098-cecd-4638-af90-8e26419ed2a4.png)
 
-4. Dans la balise body, 
+4. Dans la balise body, insérer une balise a href suivi d'un lien vers la page du réseau social désiré
+
+![image](https://user-images.githubusercontent.com/93718412/142338163-590175a3-0280-4781-9148-3481daccd97d.png)
+Le target blank sert à ouvrir la page du réseau social sur une autre page au lieu que la page du site web soit remplacé 
+
+5. Ensuite, insérer une balise image avec le logo que vous désirez voir sur votre site web et ajuster la taille si besoin à l'aide de la balise style
+
+![image](https://user-images.githubusercontent.com/93718412/142338646-0acf1462-82c8-4c9e-8336-2ef5dda92193.png)
+
+## Et voilà ! 
 
 
 
