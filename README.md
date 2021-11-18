@@ -22,6 +22,14 @@ Le target blank sert à ouvrir la page du réseau social sur une autre page au l
 ## Et voilà ! 
 
 
+## Le tutoriel vidéo 
+
+https://user-images.githubusercontent.com/93718412/142345653-5bb5cfa8-a2ad-49a4-bd83-746c042fc45b.mp4
+
+
+
+
+
 
 
 
