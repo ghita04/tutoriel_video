@@ -10,12 +10,12 @@
 
 ![image](https://user-images.githubusercontent.com/93718412/142337236-61c79098-cecd-4638-af90-8e26419ed2a4.png)
 
-4. Dans la balise body, insérer une balise a href suivi d'un lien vers la page du réseau social désiré
+4. Dans la balise body, insérer une balise <a href> suivi d'un lien vers la page du réseau social désiré
 
 ![image](https://user-images.githubusercontent.com/93718412/142341616-19957082-7eab-4219-9d9c-46ed050883bc.png)
 Le target blank sert à ouvrir la page du réseau social sur une autre page au lieu que la page du site web soit remplacé 
 
-5. Ensuite, insérer une balise image avec le logo que vous désirez voir sur votre site web et ajuster la taille si besoin à l'aide de la balise style
+5. Ensuite, insérer une balise <image> avec le logo que vous désirez voir sur votre site web et ajuster la taille si besoin à l'aide de la balise <style>
 
 ![image](https://user-images.githubusercontent.com/93718412/142341740-efeec295-909b-4bb9-8046-5fbda2b918f8.png)
 
